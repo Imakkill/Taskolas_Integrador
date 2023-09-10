@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105576756227",
+    "project_id": "taskolasapp",
+    "storage_bucket": "taskolasapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105576756227:android:e979288f0e58d159408a36",
+        "android_client_info": {
+          "package_name": "com.example.taskolas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtQ3iIJHfo_itN2C_kKjgX6Dk_V6x1vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
